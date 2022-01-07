@@ -10,10 +10,11 @@ import {
   NCollapse,
   NCollapseItem,
   NAlert,
+  NInput,
 } from "naive-ui";
 
 const naive = create({
-  components: [NButton, NCollapse, NCollapseItem, NAlert],
+  components: [NButton, NCollapse, NCollapseItem, NAlert, NInput],
 });
 
 const app = createApp(App);
