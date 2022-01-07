@@ -1,4 +1,5 @@
 # pangud-dashboard
+[![Node.js CI](https://github.com/pangud/pangud-dashboard/actions/workflows/node.js.yml/badge.svg?branch=main)](https://github.com/pangud/pangud-dashboard/actions/workflows/node.js.yml)
 
 [中文文档](docs/zh-CN/README.md)
 ## Project setup
