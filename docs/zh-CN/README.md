@@ -3,37 +3,37 @@
 ## 安装依赖
 
 ```bash
-yarn install
+npm install
 ```
 
 ### 开发环境编译与热加载
 
 ``` bash
-yarn serve
+npm run serve
 ```
 
 ### 线上环境编译
 
 ``` bash
-yarn build
+npm run build
 ```
 
 ### 运行单元测试
 
 ``` bash
-yarn test:unit
+npm run test:unit
 ```
 
 ### 运行端到端测试
 
 ``` bash
-yarn test:e2e
+npm run test:e2e
 ```
 
 ### 代码检测与修复
 
 ``` shell
-yarn lint
+npm run lint
 ```
 
 ### vue 自定义配置参考
