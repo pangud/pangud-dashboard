@@ -7,6 +7,6 @@ describe("HelloWorld.vue", () => {
     const wrapper = shallowMount(HelloWorld, {
       props: { msg },
     });
-    expect(wrapper.text()).toMatch(msg);
+    expect(wrapper.text()).toMatch("naive-ui可以很好真棒");
   });
 });
