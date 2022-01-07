@@ -1,8 +1,8 @@
 <template>
   <div class="about">
     <h1>This is an about page</h1>
-
     <e-charts :options="option" />
+    <n-alert title="alert" type="success"></n-alert>
   </div>
 </template>
 <script lang="ts">
