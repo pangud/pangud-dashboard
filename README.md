@@ -2,6 +2,7 @@
 
 [中文文档](docs/zh-CN/README.md)
 ## Project setup
+1、安装依赖包
 
 ```
 yarn install
